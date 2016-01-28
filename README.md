@@ -1,3 +1,6 @@
+BELOW IS ALL GIMMICK AS IT DOESN'T WORK WELL. LOTS OF ISSUES
+JUST RUN WITH ./run.sh for now
+
 kafka-docker
 ============
 
