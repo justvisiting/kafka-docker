@@ -1,5 +1,7 @@
 BELOW IS ALL GIMMICK AS IT DOESN'T WORK WELL. LOTS OF ISSUES
-JUST RUN WITH ./run.sh for now
+Clone justvisiting/docker-kafka, go to kafka dir, create docker image: nano-kafka:0.5
+Come back to this dir, run create-build.sh
+THEN JUST RUN WITH ./run.sh for now
 
 kafka-docker
 ============

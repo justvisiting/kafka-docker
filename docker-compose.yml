@@ -8,9 +8,10 @@ zookeeper:
 #    - kafka:kafka
 kafka:
   #build: .
-  image: nano/kafka:0.8.2.2
+  image: nano/kafka:latest
   ports:
     - "9092:9092"
+  privileged: true
   links: 
     - zookeeper:zk
   environment:
