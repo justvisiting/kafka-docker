@@ -1,4 +1,4 @@
-FROM nano-kafka:0.5
+FROM spotify/kafka
 
 MAINTAINER justvisiting 
 
